@@ -21,6 +21,9 @@ public class Library {
         library.bookDetails();
         library.updateQuantity(4);
         System.out.println("Book count for " + library.bookName + " is " + library.quantity);
+
+        Library library2 = new Library();
+        library2.bookDetails();
     }
 
 }
