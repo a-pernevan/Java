@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FileHandling",
+            "request": "launch",
+            "mainClass": "FileHandling",
+            "projectName": "ExpenseTracker_26f41202"
+        },
+        {
+            "type": "java",
             "name": "Bank",
             "request": "launch",
             "mainClass": "Bank.Bank",
