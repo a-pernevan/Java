@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Bank",
+            "request": "launch",
+            "mainClass": "Bank.Bank",
+            "projectName": "ExpenseTracker_26f41202"
+        },
+        {
+            "type": "java",
             "name": "Test",
             "request": "launch",
             "mainClass": "Test",
